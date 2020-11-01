@@ -3,7 +3,7 @@
 ### Who I am
 Mostafa is Egypt based, polyglot Technical Lead & Solution Architect . He spends his time helping developers building better systems leveraging microservices and Service Oriented Architecture (SOA) principles and message-based architectures on cloud.
 
-Mostafa usually writes about technology on his  blog at https://mbiomee.online and his Medium account at https://medium.com/@m.biomee. He is also passionate about sfishing, swimming and music, in general.
+Mostafa usually writes about technology on his  blog at https://mbiomee.com and his Medium account at https://medium.com/@m.biomee. He is also passionate about sfishing, swimming and music, in general.
 
 
 
